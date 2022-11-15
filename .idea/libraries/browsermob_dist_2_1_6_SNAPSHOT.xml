@@ -1,0 +1,11 @@
+<component name="libraryTable">
+  <library name="browsermob-dist-2.1.6-SNAPSHOT">
+    <CLASSES>
+      <root url="jar://$PROJECT_DIR$/../../third-party/browsermob-proxy/browsermob-dist/target/browsermob-dist-2.1.6-SNAPSHOT.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES>
+      <root url="jar://$PROJECT_DIR$/../../third-party/browsermob-proxy/browsermob-dist/target/browsermob-dist-2.1.6-SNAPSHOT.jar!/" />
+    </SOURCES>
+  </library>
+</component>

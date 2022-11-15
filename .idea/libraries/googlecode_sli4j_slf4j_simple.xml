@@ -1,0 +1,18 @@
+<component name="libraryTable">
+  <library name="googlecode.sli4j.slf4j.simple" type="repository">
+    <properties maven-id="com.googlecode.sli4j:sli4j-slf4j-simple:2.0">
+      <exclude>
+        <dependency maven-id="org.slf4j:slf4j-api" />
+        <dependency maven-id="org.slf4j:slf4j-simple" />
+        <dependency maven-id="com.googlecode.sli4j:sli4j-slf4j-simple" />
+        <dependency maven-id="com.googlecode.sli4j:sli4j-core" />
+      </exclude>
+    </properties>
+    <CLASSES>
+      <root url="jar://$MAVEN_REPOSITORY$/com/google/inject/guice/2.0/guice-2.0.jar!/" />
+      <root url="jar://$MAVEN_REPOSITORY$/aopalliance/aopalliance/1.0/aopalliance-1.0.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+  </library>
+</component>
